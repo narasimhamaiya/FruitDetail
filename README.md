@@ -1,2 +1,2 @@
 # FruitDetail
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](//Users/nmaiya/Desktop/homePage.jpg?raw=true "Optional Title")
